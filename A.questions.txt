@@ -1,0 +1,49 @@
+linear Regression 
+
+BFS 
+
+
+DFS
+
+Best first search algorithm in python 
+
+we use Best first search bez unlike other algorithms  like BFS , DFS it don't blindly go for the path selection and prioritize every path equally ..
+
+instead it uses the Heuristic functions h(n) and 
+evaluation function , although it is middle ground for both of the BFS and DFS  
+
+
+Best FS is used over the large and for Efficiency to reach the end although it do not gurantee us that the path would be a most-cost-effective or shortest .as it chooses greedily the shortest and also uses the Heuristic function and evaluation function.
+
+
+it has property of both BFS & DFS
+for example : it can go deep to the end node to find the minimal /optimal solution like DFS.
+nd also it can change branch midway if found some other way to reach the end .
+
+
+As it do not confirm/gurantee to find the most optimal path everytime. Neither we use this algo directly instead we do improvements for better prediction , so introduced A* Search algo which has the base ground Best-FS .
+
+
+
+A* search factoring in both Heuristic functions and the actual distance travelled so far.
+
+
+It is one of the most used algo in computer science for shortest and most cost effective route.
+
+
+
+
+uses of Best-First-search : 
+
+Navigation in the Map : finding the optimal route ..
+
+Robotics : finding the route to reach the destination without collision..
+
+
+
+
+
+
+A*   ,  A0* 
+
+Hill climbing algorithm
