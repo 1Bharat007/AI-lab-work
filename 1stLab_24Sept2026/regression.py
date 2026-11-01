@@ -44,4 +44,3 @@ print("w1 = ", w1)
 print("w2 = ", w2)
 print("b=", b)
 
-
